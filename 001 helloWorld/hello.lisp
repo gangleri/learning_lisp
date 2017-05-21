@@ -1,4 +1,4 @@
-#!/usr/local/bin/clisp
+#!/usr/bin/env clisp
 
 (defun hello-world ()
 	(format t "Hello Alan"))
